@@ -1,0 +1,23 @@
+{
+  "name": "harebnb-sql",
+  "version": "1.0.0",
+  "description": "- Phil - Marie - John",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilJG/B11G05-SQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilJG/B11G05-SQL/issues"
+  },
+  "homepage": "https://github.com/PhilJG/B11G05-SQL#readme",
+  "dependencies": {
+    "express": "^4.19.1",
+    "sqlite3": "^5.1.7"
+  }
+}
